@@ -2,11 +2,9 @@
 
 ---
 
-I wanted to make the code as simple as possible and as readable as possible.
-
 The program was created with the help of a repository that was installed from the npmjs website and installed to the app.
 
-I got the idea from a quick google search on repositories that change markdown text to html.
+I got the idea from a google search on repositories that change markdown text to html.
 
 The code only works to change markdown text to HTML.
 
